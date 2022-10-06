@@ -1,0 +1,46 @@
+[2022-10-05T18:38:59.255Z] Niveau de journal : Info
+[2022-10-05T18:38:59.364Z] [info] Validation du git trouvé dans : git
+[2022-10-05T18:38:59.557Z] [info] Utilisation de git 2.30.2 à partir de git
+[2022-10-05T18:38:59.979Z] > git rev-parse --show-toplevel [298ms]
+[2022-10-05T18:38:59.979Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-05T18:39:00.054Z] > git rev-parse --show-toplevel [9ms]
+[2022-10-05T18:39:00.054Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-05T18:39:00.116Z] > git rev-parse --show-toplevel [8ms]
+[2022-10-05T18:39:00.116Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-05T18:39:00.688Z] > git rev-parse --show-toplevel [10ms]
+[2022-10-05T18:39:00.688Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:51:12.797Z] > git rev-parse --show-toplevel [116ms]
+[2022-10-06T12:51:12.797Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:51:17.516Z] > git rev-parse --show-toplevel [11ms]
+[2022-10-06T12:51:17.516Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:52:41.370Z] > git rev-parse --show-toplevel [13ms]
+[2022-10-06T12:52:41.370Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:52:49.578Z] > git rev-parse --show-toplevel [15ms]
+[2022-10-06T12:52:49.578Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:52:51.050Z] > git rev-parse --show-toplevel [20ms]
+[2022-10-06T12:52:51.050Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:52:52.324Z] > git rev-parse --show-toplevel [10ms]
+[2022-10-06T12:52:52.324Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:52:53.979Z] > git rev-parse --show-toplevel [13ms]
+[2022-10-06T12:52:53.979Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T12:55:50.101Z] > git rev-parse --show-toplevel [13ms]
+[2022-10-06T12:55:50.101Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-06T13:04:34.104Z] > git rev-parse --show-toplevel [48ms]
+[2022-10-06T13:04:34.163Z] > git rev-parse --git-dir --git-common-dir [9ms]
+[2022-10-06T13:04:34.191Z] [info] Open repository: /home/fado/scripts_bash
+[2022-10-06T13:04:34.297Z] > git status -z -uall [51ms]
+[2022-10-06T13:04:34.356Z] > git symbolic-ref --short HEAD [16ms]
+[2022-10-06T13:04:34.407Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+[2022-10-06T13:04:34.492Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [41ms]
+[2022-10-06T13:04:34.496Z] > git remote --verbose [11ms]
+[2022-10-06T13:04:34.561Z] > git config --get commit.template [16ms]
+[2022-10-06T13:04:34.705Z] > git status -z -uall [92ms]
+[2022-10-06T13:04:34.743Z] > git show --textconv :git_auto_0.2.sh [82ms]
+[2022-10-06T13:04:34.754Z] > git ls-files --stage -- /home/fado/scripts_bash/git_auto_0.2.sh [54ms]
+[2022-10-06T13:04:34.789Z] > git symbolic-ref --short HEAD [47ms]
+[2022-10-06T13:04:34.906Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [76ms]
+[2022-10-06T13:04:34.989Z] > git cat-file -s 39b79af1d6c357ea3fb605f2f0f0be3e86faabd0 [202ms]
+[2022-10-06T13:04:34.995Z] > git check-ignore -v -z --stdin [93ms]
+[2022-10-06T13:04:34.996Z] > git remote --verbose [13ms]
+[2022-10-06T13:04:34.997Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [47ms]
+[2022-10-06T13:04:35.057Z] > git config --get commit.template [8ms]

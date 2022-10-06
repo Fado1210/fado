@@ -1,0 +1,14 @@
+[2022-10-05 20:38:56.504] [exthost] [info] Extension host with pid 5645 started
+[2022-10-05 20:38:56.518] [exthost] [error] Error: EEXIST: file already exists, open '/home/fado/.vscode-server/data/User/workspaceStorage/364bfbf6c2d0113235406b56bb3724b2/vscode.lock'
+[2022-10-05 20:38:56.526] [exthost] [info] Lock '/home/fado/.vscode-server/data/User/workspaceStorage/364bfbf6c2d0113235406b56bb3724b2/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-10-05 20:38:56.542] [exthost] [info] Lock '/home/fado/.vscode-server/data/User/workspaceStorage/364bfbf6c2d0113235406b56bb3724b2/vscode.lock': The pid 1109 appears to be gone.
+[2022-10-05 20:38:56.542] [exthost] [info] Lock '/home/fado/.vscode-server/data/User/workspaceStorage/364bfbf6c2d0113235406b56bb3724b2/vscode.lock': Deleting a stale lock.
+[2022-10-05 20:38:56.560] [exthost] [info] Lock '/home/fado/.vscode-server/data/User/workspaceStorage/364bfbf6c2d0113235406b56bb3724b2/vscode.lock': Lock acquired.
+[2022-10-05 20:38:56.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-05 20:38:56.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-05 20:38:56.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-05 20:38:58.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-05 20:38:59.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-05 20:38:59.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 20:38:59.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 20:38:59.973] [exthost] [info] Eager extensions activated

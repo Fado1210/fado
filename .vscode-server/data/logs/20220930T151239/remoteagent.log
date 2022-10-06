@@ -1,0 +1,14 @@
+[2022-09-30 15:12:40.123] [remoteagent] [info] Extension host agent started.
+[2022-09-30 15:12:40.537] [remoteagent] [info] [127.0.0.1][de58bb07][ManagementConnection] New connection established.
+[2022-09-30 15:12:40.542] [remoteagent] [info] [127.0.0.1][52df33f4][ExtensionHostConnection] New connection established.
+[2022-09-30 15:12:40.743] [remoteagent] [info] [127.0.0.1][52df33f4][ExtensionHostConnection] <72> Launched Extension Host Process.
+[2022-09-30 15:12:50.430] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+[2022-09-30 15:12:50.599] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+[2022-09-30 15:12:52.415] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-fr /home/fado/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-fr-1.71.9140920
+[2022-09-30 15:12:53.013] [remoteagent] [info] Extracted extension to /home/fado/.vscode-server/extensions/.2b5a2074-f5fa-4aa3-8c7f-858dfc52bf0d: ms-ceintl.vscode-language-pack-fr
+[2022-09-30 15:12:53.073] [remoteagent] [info] Renamed to /home/fado/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.71.9140920
+[2022-09-30 15:12:53.095] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-fr
+[2022-09-30 15:12:53.097] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+[2022-09-30 15:12:53.578] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
+[2022-09-30 15:12:54.724] [remoteagent] [info] [127.0.0.1][de58bb07][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-30 15:12:54.869] [remoteagent] [info] [127.0.0.1][52df33f4][ExtensionHostConnection] <72> Extension Host Process exited with code: 0, signal: null.

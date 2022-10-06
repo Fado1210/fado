@@ -1,0 +1,15 @@
+[2022-09-30 15:20:42.134] [remoteagent] [info] Extension host agent started.
+[2022-09-30 15:20:42.364] [remoteagent] [info] [127.0.0.1][270c04ce][ManagementConnection] New connection established.
+[2022-09-30 15:20:42.554] [remoteagent] [info] [127.0.0.1][698cdabb][ExtensionHostConnection] New connection established.
+[2022-09-30 15:20:42.873] [remoteagent] [info] [127.0.0.1][698cdabb][ExtensionHostConnection] <171> Launched Extension Host Process.
+[2022-09-30 19:02:52.607] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-30 19:02:53.804] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/fado/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-09-30 19:02:53.810] [remoteagent] [info] [127.0.0.1][270c04ce][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-10-04 08:34:43.602] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-04 08:35:16.558] [remoteagent] [info] [127.0.0.1][270c04ce][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-10-04 08:35:16.564] [remoteagent] [info] [127.0.0.1][698cdabb][ExtensionHostConnection] The client has reconnected.
+[2022-10-04 08:35:16.586] [remoteagent] [info] [127.0.0.1][270c04ce][ManagementConnection] The client has reconnected.
+[2022-10-04 08:40:06.357] [remoteagent] [info] [127.0.0.1][270c04ce][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-04 08:40:06.490] [remoteagent] [info] [127.0.0.1][698cdabb][ExtensionHostConnection] <171> Extension Host Process exited with code: 0, signal: null.
